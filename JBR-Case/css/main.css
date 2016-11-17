@@ -5,7 +5,7 @@
 /* for the entire page here.    */
 
 div.page {
-  background: darkgray;
+  background: #424242;
   width: 100%;
 }
 
@@ -35,7 +35,6 @@ div.ex1 {
     height: 315px;
     background-repeat: no-repeat;
     background-size: cover;
-    font-size: 30px;
 }
   }
 
