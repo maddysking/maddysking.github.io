@@ -41,6 +41,7 @@ div.ex1 {
   header h1 {
     margin: 0;
     padding-top: 15px;
+    font-size: 100px;
   }
 
   main {
